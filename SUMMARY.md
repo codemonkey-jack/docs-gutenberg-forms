@@ -12,5 +12,6 @@
   * [Standard Form](getting-started/create-your-first-form/how-to-create-a-standard-form.md)
   * [Multi-Step Form](getting-started/create-your-first-form/multi-step-form.md)
 * [Form Settings](getting-started/form-block-settings.md)
+* [Fields Settings](getting-started/fields-settings.md)
 * [Form Templates Library](getting-started/types-of-forms.md)
 

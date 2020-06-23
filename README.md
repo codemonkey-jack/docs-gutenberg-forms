@@ -2,7 +2,7 @@
 
 ## Let's learn how to use GutenbergForms
 
-The Documentation is in progress. And we will keep adding more instructions as we proceed. But this should already cover all the basic instructions that you need to know.
+The Documentation is in progress. And we will keep adding more instructions as we proceed. But this should already cover the basic instructions that you need to know.
 
 Need Help? 
 

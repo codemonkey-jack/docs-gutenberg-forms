@@ -50,9 +50,11 @@ Here you can configure the email notification settings easily. It has the follow
 ![](../.gitbook/assets/screen-recording-2020-06-18-at-06.01-pm.gif)
 
 * **Subject** - Write your email subject here.
-* **Body** - Here you can define what data you like to receive in the email. By default, it has `{{all_data}}` tag that retrieve all the fields of your form. But, you can remove that and define your own structure by defining only the data you need. 
+* **Body** - Here you can define what data you like to receive in the email. By default, it has `{{all_data}}` tag that retrieves all the fields of your form. But, you can remove that and define your own structure by defining only the data you need. 
 
-![](../.gitbook/assets/screen-recording-2020-06-18-at-05.14-pm.gif)
+📝 _You can also insert some dynamic data besides form filed values._ 
+
+![](../.gitbook/assets/screen-recording-2020-06-23-at-04.51-pm.gif)
 
 ### Form Action
 
@@ -69,47 +71,19 @@ Both actions are enabled by default. If you like to disable anyone simply remove
 There may be more actions available via add-ons or in future updates.
 {% endhint %}
 
+### Messages
 
+![](../.gitbook/assets/image-2020-06-23-at-4.58.02-pm.png)
 
-### Field Settings
+From the messages panel, you can modify the default validation error messages for each field type. These validation messages can be modified basically at different levels.
 
-Each field in Gutenberg Editor is technically a Gutenberg Block. So you can easily deal it similar to any Gutenberg Block.
+1. **Global** - You can simply change it once from the plugin admin area → Settings page. Those will be reflected in every form you create.
+2. **Form** - You can further customize it on any specific form if you like. By default, every form picks it up from the global settings.
+3. **Field** - And finally you can even modify it for any specific field in any form. By default, the field picks up the form level messages.
 
-![](../.gitbook/assets/image-2020-04-04-at-2.23.27-pm.png)
+This way you can modify the validation error messages from global to the field level. 
 
-#### Edit Label
+### Advanced
 
-Simply click on the field label, and replace the text with yours.
-
-![](../.gitbook/assets/screen-recording-2020-04-04-at-02.29-pm.gif)
-
-#### Set Placeholder
-
-If you want to set a placeholder text, simply write it in the input field. And it will be set as a placeholder text.
-
-![](../.gitbook/assets/screen-recording-2020-04-04-at-02.29-pm%20%281%29.gif)
-
-#### Make a field Required & Change Required indicator Text
-
-It is also super easy in Gutenberg Forms to make a field required and change it's indicator text which appears beside the label on the front-end.
-
-![](../.gitbook/assets/screen-recording-2020-04-04-at-02.30-pm%20%281%29.gif)
-
-#### Fields has Styles
-
-Similar to Gutenberg Blocks, Gutenberg Forms Fields also has different styles. Simply check the styles tab and apply a style you need.
-
-![](../.gitbook/assets/screen-recording-2020-04-04-at-02.30-pm.gif)
-
-{% hint style="info" %}
-There will be more styles in future. And, you may define your own styles as well.
-{% endhint %}
-
-#### You can change Validation Messages
-
-Each field has options to modify the default validation messages. By default it picks the validation messages defined in the main Form Settings. 
-
-![](../.gitbook/assets/image-2020-04-04-at-2.39.56-pm.png)
-
-####  
+This is a default settings panel you would see on every Gutenberg block. You may simply assign a CSS class from there to your forms. This way you can further customize your forms using CSS.
 

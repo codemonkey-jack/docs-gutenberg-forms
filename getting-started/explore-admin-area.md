@@ -1,6 +1,6 @@
 # Explore Admin Area
 
-Once activated you will see a new menu item in your WordPress dashboard "**Gutenberg Forms**". This includes admin settings page, Forms page & Entries page. Let's explore further about these pages.
+Once activated you will see a new menu item in your WordPress dashboard "**Gutenberg Forms**". This includes the admin settings page, Forms page & Entries page. Let's explore further about these pages.
 
 ### **Admin Dashboard**
 
