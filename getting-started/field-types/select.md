@@ -36,5 +36,17 @@ As you can there are controls on the screen to add and manage your radio options
 
 #### See in action those in-editor settings.​​​​​​ <a id="see-in-action-those-in-editor-settings"></a>
 
-![](../../.gitbook/assets/screen-recording-2020-06-26-at-07.00-pm.gif)
+![Add an option](../../.gitbook/assets/screen-recording-2020-06-26-at-07.26-pm.gif)
+
+![Delete an option](../../.gitbook/assets/screen-recording-2020-06-26-at-07.31-pm.gif)
+
+![Duplicate an option](../../.gitbook/assets/screen-recording-2020-06-26-at-07.00-pm.gif)
+
+![Bulk add or edit options](../../.gitbook/assets/screen-recording-2020-06-26-at-07.01-pm.gif)
+
+![Clear all options](../../.gitbook/assets/screen-recording-2020-06-26-at-07.02-pm.gif)
+
+
+
+
 

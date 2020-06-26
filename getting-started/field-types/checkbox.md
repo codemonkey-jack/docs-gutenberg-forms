@@ -14,7 +14,7 @@ Below you will find details of additional settings that are particular to this f
 
 Besides the common settings, there are a few additional settings that are available for this field type only. These settings can be found under the "**Field Settings**" panel.
 
-* Layout - You may select how you like to display these checkboxes in your form. There are currently two layouts you can set, **Block** & **Inline**. Both are self-explanatory.
+* **Layout** - You may select how you like to display these checkboxes in your form. There are currently two layouts you can set, **Block** & **Inline**. Both are self-explanatory.
 
 ### In-Editor Settings
 
