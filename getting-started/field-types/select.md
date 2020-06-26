@@ -20,7 +20,7 @@ Besides the settings available in the sidebar control panel, there are more opti
 
 ![](../../.gitbook/assets/image-2020-06-26-at-6.50.50-pm.png)
 
-As you can there are controls on the screen to add and manage your radio options visually.‌
+As you can there are controls on the screen to add and manage your drop-down options visually.‌
 
 **Firstly, each option has a few controls.**‌
 
