@@ -2,8 +2,6 @@
 
 The **Yes/No** field allows you to offer a “yes/no” consent toggle. You can further write the consent details simply below this using the paragraph block \(or any Gutenberg blocks\).
 
-
-
 ![](../../.gitbook/assets/image-2020-06-26-at-7.34.11-pm.png)
 
 ### Common Settings
