@@ -4,7 +4,7 @@ Gutenberg Forms comes with a variety of useful question/field types that lets yo
 
 Before we jump into individual field types, let's have a look at the standard settings available for each field. 
 
-## Standard Settings
+## Common Settings
 
 Note that each field/question type is technically a Gutenberg block, so you may expect to use it \(add, arrange, delete\) the same way you do with any Gutenberg block.
 
