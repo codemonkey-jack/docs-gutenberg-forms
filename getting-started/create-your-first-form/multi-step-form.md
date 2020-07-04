@@ -6,49 +6,61 @@ Add **Gutenberg Forms** Block in the WordPress editor and click the "Multi-Step"
 
 ![](../../.gitbook/assets/image-2020-06-17-at-4.47.17-pm.png)
 
-Once clicked you will see a simple multi-step form with few fields and two steps added by default.
+Once clicked a simple multi-step form with an empty step will be added by default.
 
-![](../../.gitbook/assets/image-2020-06-17-at-7.07.31-pm.png)
+![](../../.gitbook/assets/image-2020-07-04-at-5.37.21-pm.png)
 
-As you can see a sample short form has been added to help you get started creating your multi-step form easily. Now you need to be careful while creating a multi-step form that you do not add any field/block outside the "**Form Step**" block. This is why we are giving you a head start with 2 steps blocks already added. 
+This is the "**Form Steps"** block that you see in the screenshot above. This block is added by default when you choose to create a Multi-Step form. The block interface is very easy to work with. 
+
+### Add Form Steps
+
+![](../../.gitbook/assets/screen-recording-2020-07-04-at-06.11.54-pm.gif)
+
+Inside Steps block, you get a steps menu where you can create new steps by clicking on the \[+\] icon at the end. You may also click and change form step labels just for easier recognition of what this step is for.
+
+![](../../.gitbook/assets/screen-recording-2020-07-04-at-07.10.06-pm.gif)
+
+You may also change the step label to something more recognizable. 
+
+### Arrange, Delete & Duplicate Form Steps
+
+It's super simple from the block toolbar on the top. 
+
+![](../../.gitbook/assets/image-2020-07-04-at-6.56.13-pm.png)
+
+The toolbar has four controls/icons that let you do the following:
+
+* **Re-Arrange Steps** - Using the left & right icons. 
+* **Delete a Step** - Using the bucket icon.
+* **Duplicate a Step** - Using the icon next to the bucket. 
+
+![](../../.gitbook/assets/screen-recording-2020-07-04-at-06.47.37-pm.gif)
+
+You can now add form fields inside this step.
 
 ### Add & Arrange Fields
 
-This exactly similar to how it has been explained in the "[Standard Form](how-to-create-a-standard-form.md)" creation instructions. You just need to make sure you are adding your fields inside the desired "**form step"** block.
+![](../../.gitbook/assets/screen-recording-2020-07-04-at-07.13.03-pm.gif)
 
-### Add & Arrange Form Steps
+This exactly similar to how it has been explained in the "[Standard Form](how-to-create-a-standard-form.md)" creation instructions. 
 
-When you are creating a multi-step form, you will get a new block called "Form Steps". This is a wrapper block to create your form pages and add fields inside it. To add a new step simply click on the block inserter at the end and select the "**Form Step**" block.
+### Add Next, Previous & Submit Buttons
 
-![](../../.gitbook/assets/screen-recording-2020-06-17-at-07.17-pm.gif)
+Once you have created all the steps and filled them with desired fields, you also have to add form buttons. 
 
-Now you get a new step. You can now add form fields inside this step.
+Form buttons can be added inside each step, but we recommend to simply add them outside your **Form Steps** Block. 
 
-![](../../.gitbook/assets/screen-recording-2020-06-17-at-07.19-pm.gif)
+To do that, simply click on the bottom block inserter button and add the "**Form Button**" block. This form button block allows you to assign different actions \(next, previous, reset & submit\). So you simply need to add it at-least three times for Next, Previous & Submit.
 
-Now for the new step, you also have to add desired buttons. 
-
-For example, if this is the last step you have to add at least two buttons.
-
-1. **Previous** - To let the user go back to the previous step.
-2. **Submit** - To let the user send submit the form.
-
-If this is one of the middle steps, you still need to add two buttons.
-
-1. **Previous** - To let the user go back to the previous step.
-2. **Next** - To let the user go to the next step.
-
-If this is the first step you simply need to add one button.
-
-1. **Next** - To let the user go to the next step.
+![](../../.gitbook/assets/screen-recording-2020-07-04-at-07.21.35-pm.gif)
 
 {% hint style="info" %}
-You can place these buttons anywhere as you like. You may also use the "Form Column" block to make them sit in a row.
+You can make use of Form Column block to arrange them in a row and can also move them on top of the Form Steps Block.
 {% endhint %}
 
 ![](../../.gitbook/assets/screen-recording-2020-06-17-at-07.35-pm.gif)
 
-#### Button Actions
+### Form Button Actions
 
 The "Form Button" block has different actions that you can set for the purpose you are adding the button.
 
@@ -59,13 +71,15 @@ There are currently four actions available.
 3. **Next** - To let the users proceed to the next step.
 4. **Previous** - To let the users go back to the previous step. 
 
-So you simply need to add Form Button for each step and apply the required action to it. 
+So you simply need to add Form Button and apply the required action to it. 
 
-This is how you can create a fully flexible multi-step form using Gutenberg Forms plugin.
+### Add Progress Bar \(Optional\)
 
-{% hint style="info" %}
-You need to be careful while adding your fields. Make sure you do not add a field outside the step block. Also, make sure you have desired buttons added with appropriate actions applied in each step.
-{% endhint %}
+There is also a progress bar block that you can use in your multi-step forms to show the progress to the user while they are filling out your form.
 
+![](../../.gitbook/assets/screen-recording-2020-07-04-at-07.30.28-pm.gif)
 
+You can add it using the bottom block inserter. It is fully customizable and can be moved on top of the Steps block as well. So you are free to add and place it anywhere as you like.  
+
+_**This is how you can create a fully flexible multi-step form using Gutenberg Forms plugin.**_
 
