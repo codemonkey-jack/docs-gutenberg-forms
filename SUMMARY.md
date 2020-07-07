@@ -31,3 +31,12 @@
   * [Calculation](getting-started/field-types/calculation.md)
 * [Form Templates Library](getting-started/types-of-forms.md)
 
+## Tutorials
+
+* [How to create inline forms in Gutenberg](tutorials/how-to-create-inline-forms-in-gutenberg.md)
+
+## Quick Tips
+
+* [How to Disable Field Labels](quick-tips/how-to-disable-field-labels.md)
+* [How to add a placeholder text to an input field?](quick-tips/how-to-add-a-placeholder-text-to-an-input-field.md)
+
