@@ -40,3 +40,7 @@
 
 * [How to create inline forms in Gutenberg](tutorials/how-to-create-inline-forms-in-gutenberg.md)
 
+## Addons & Integrations
+
+* [Akismet](addons-and-integrations/akismet.md)
+
