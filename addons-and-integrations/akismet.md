@@ -21,9 +21,10 @@ In order to create a spam-protected form with [Akismet](https://wordpress.org/pl
 
 * \*\*\*\*[**Akismet**](https://wordpress.org/plugins/akismet/)  - This is the core Akismet plugin
 * **Gutenberg Forms Akismet Addon** - Gutenberg forms addons that let you connect and create Gutenberg forms with Akismet Protection.
+* \*\*\*\*[**Gutenberg Forms**](https://wordpress.org/plugins/forms-gutenberg/) - Of-Course you need this installed as well. 😊
 
 {% hint style="info" %}
-You can also install and activate the **Gutenberg Forms Akismet Addon** from the **Gutenberg forms Dashboard -&gt; Integrations**
+You can also install and activate the **Gutenberg Forms Akismet Addon** from the **Gutenberg Forms Dashboard -&gt; Integrations**
 {% endhint %}
 
 ### Configure the Required Plugins
@@ -42,7 +43,7 @@ If you have followed all the steps above right then you are just a few steps awa
 
 Here are a few steps to configure the Akismet addon correctly**.**
 
-The first step in any Gutenberg forms addon is to enable the addon. Before proceeding to further steps make sure the addon you want to configure is enabled.
+The first step for any Gutenberg Forms addon is to enable the addon. Before proceeding to further steps make sure the addon you want to configure is enabled.
 
 ![Activating the addon](../.gitbook/assets/activation.png)
 
@@ -52,31 +53,21 @@ If you haven't configured the Akismet plugin with a valid API KEY. You may see t
 
 ![Configuration Error](../.gitbook/assets/error.png)
 
+### Create an Akismet Protectd Form
+
 Now your add-on is ready to use inside the Gutenberg Form. Let's create a new Gutenberg form inside the block editor.
 
 You can now see a new suggestion in the "form actions".
 
 ![Suggestion](../.gitbook/assets/suggestion.png)
 
-After selecting Akismet in the "form actions". You can now see a new panel created named as **Akismet.** Here you can map the fields which need protection.
+After selecting Akismet in the "form actions". You can now see a new panel named as **Akismet.** Here you can map the fields which need protection.
 
 ![Akismet Panel](../.gitbook/assets/panel.png)
 
-After selecting the fields you can now publish the form. Assuming you have followed all the steps above you have now easily created a **Gutenberg Form** with **Akismet Protection**.
+After selecting the fields you can now publish the form. That's how easy it is to create **Gutenberg Form** with **Akismet Protection**.
 
 Here is the final form. Of course, you don't see much in this image below. But it does protect you from a lot of spams.
 
 ![Final Result](../.gitbook/assets/final-result.png)
-
- 
-
- ****
-
-
-
- ****
-
-
-
-
 
