@@ -20,7 +20,7 @@ Here are some quick steps of this tutorial that we need to follow in order to cr
 In order to create a spam-protected form with [Akismet](https://wordpress.org/plugins/akismet/) protection. You must have the following plugins:
 
 * \*\*\*\*[**Akismet**](https://wordpress.org/plugins/akismet/)  - This is the core Akismet plugin
-* **Gutenberg Forms Akismet Addon** - Gutenberg forms addons that let you connect and create Gutenberg forms with Akismet Protection.
+* \*\*\*\*[**Gutenberg Forms Akismet Addon**](https://wordpress.org/plugins/guten-forms-akismet/) - Gutenberg forms addons that let you connect and create Gutenberg forms with Akismet Protection.
 * \*\*\*\*[**Gutenberg Forms**](https://wordpress.org/plugins/forms-gutenberg/) - Of-Course you need this installed as well. 😊
 
 {% hint style="info" %}
